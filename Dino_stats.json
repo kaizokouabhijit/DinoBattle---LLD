@@ -1,0 +1,36 @@
+{
+	"T-Rex": {
+		"Health": 20,
+		"damage_min_a": 6,
+		"damage_min_d": 4,
+		"damage_max_a": 10,
+		"damage_max_d": 8,
+		"defense_min_a": 0,
+		"defense_min_d": 3,
+		"defense_max_a": 2,
+		"defense_max_d": 5
+	},
+	"Stegosaurus": {
+		"Health": 40,
+		"damage_min_a": 3,
+		"damage_min_d": 1,
+		"damage_max_a": 6,
+		"damage_max_d": 4,
+		"defense_min_a": 1,
+		"defense_min_d": 4,
+		"defense_max_a": 3,
+		"defense_max_d": 8
+	}, 
+	"Triceratops": {
+		"Health": 30,
+		"damage_min_a": 4,
+		"damage_min_d": 2,
+		"damage_max_a": 8,
+		"damage_max_d": 6,
+		"defense_min_a": 1,
+		"defense_min_d": 2,
+		"defense_max_a": 4,
+		"defense_max_d": 6
+	}
+
+}
